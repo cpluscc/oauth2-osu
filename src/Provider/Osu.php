@@ -6,7 +6,7 @@ use League\OAuth2\Client\Provider\AbstractProvider;
 use League\OAuth2\Client\Provider\Exception\IdentityProviderException;
 use League\OAuth2\Client\Provider\ResourceOwnerInterface;
 use League\OAuth2\Client\Token\AccessToken;
-use Luchianenco\OAuth2\Client\Exception\OsuIdentityProviderException;
+use Cpluscc\OAuth2\Client\Exception\OsuIdentityProviderException;
 use Psr\Http\Message\ResponseInterface;
 
 class Amazon extends AbstractProvider
