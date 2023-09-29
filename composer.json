@@ -1,5 +1,5 @@
 {
-  "name": "luchianenco/oauth2-osu",
+  "name": "cpluscc/oauth2-osu",
   "description": "osu! OAuth 2.0 Client Provider for The PHP League OAuth2-Client",
   "license": "MIT",
   "authors": [
